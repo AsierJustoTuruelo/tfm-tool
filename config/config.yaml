@@ -1,0 +1,9 @@
+network_scan:
+  ip_range: "192.168.1.0/24"
+  ports: [22, 80, 443, 3389]
+
+host_scan:
+  services: ["ssh", "https", "ftp"]
+
+report:
+  output_format: "html"

@@ -1,0 +1,8 @@
+python-nmap
+scapy
+cryptography
+requests
+jinja2
+psutil
+pywin32  # Solo si usas Windows
+PyYAML
